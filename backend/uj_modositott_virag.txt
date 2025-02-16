@@ -1,0 +1,15 @@
+POST{
+  "nev": "Viaszvirág",
+  "kategoriaId": 1,
+  "leiras": "A viaszvirág (Hoya), más néven porcelánvirág vagy viaszszőlő a selyemkórófélék (Asclepiadaceae) családjába tartozó növénynemzetség. Őshazája Délkelet-Ázsia (India, tőle keletre Dél-Kínáig és az ettől délre eső területek), Ausztrália és Polinézia.",
+  "keszlet": 6,
+  "ar": 2100,
+  "kepUrl": "https://ankert.hu/wp-content/uploads/2018/02/Hoya-carnosa.jpg"
+}
+
+PUT{
+  "nev": "Tulipán",
+  "leiras": "A tulipán (Tulipa) a liliomfélék (Liliaceae) családjába tartozó növények nemzetsége. A tulipánok a törökországi Szökevény-hegységben őshonosak.",
+  "keszlet": 20,
+  "ar": 700
+}
